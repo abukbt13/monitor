@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">monitor</string>
+    <string name="textarea">textarea</string>
+    <string name="read_sms">Read Sms</string>
+</resources>
